@@ -3,7 +3,7 @@ This is the repository for my final year project at TCD on battery health estima
 
 Here you will find the following,
 1. The data generation code which is based on the [P2D model implementation](https://github.com/DEARLIBS) by Dr. Seongbeom Lee.
-2. The code I used to pre-process the [experimental data](https://osf.io/qsabn/?view_only=2a03b6c78ef14922a3e244f3d549de78), and also the synthetic data, which I generated using the mentioned P2D model.
+2. The code I used to pre-process the [experimental data](https://osf.io/qsabn/?view_only=2a03b6c78ef14922a3e244f3d549de78), and also the generated synthetic data.
 3. The code used for modelling it with SVR. 
 
 More details about the data generation process, data pre-processing and data modelling are all included in my thesis. 
