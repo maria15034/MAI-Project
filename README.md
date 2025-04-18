@@ -3,7 +3,7 @@ This is the repository for my final year project at TCD on battery health estima
 
 Here you will find the following,
 1. The data generation code which is based on the implementation by Dr. Seongbeom Lee from https://github.com/DEARLIBS.
-1. The code I used to pre-process the generated raw data.
+2. The code I used to pre-process the generated raw data.
 3. The code for modelling it using both LSTM and SVR. 
 
-For each section, I will include instructions on how to run it and what files are required. More details about the data generation process, data pre-processing and data modelling are all included in my thesis.
+For each section, I will include instructions on how to run it and what files are required. More details about the data generation process, data pre-processing and data modelling are all included in my thesis. Matlab is required for part 1. Parts 2 and 3 are Jupyter Notebooks, so you could use Google Colab for example to run them.
