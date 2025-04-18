@@ -1,1 +1,1 @@
-A number of Matlab toolboxes are required to run the data generation code, for me this meant installing Symbolic Math, Optimization, Parallel Computing. You may require more based on your Matlab environment.
+A number of Matlab toolboxes are required to run the data generation code. These include Symbolic Math, Optimization, Global Optimization, and Parallel Computing. You may require more based on your Matlab environment.
