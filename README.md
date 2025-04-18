@@ -1,5 +1,5 @@
 # MAI-Project
-This is the repository for my MAI Project at TCD on battery health. 
+This is the repository for my final year project at TCD on battery health estimation. 
 
 Here you will find the code I used to pre-process some of the raw data, and also the code for modelling it using LSTM and SVR. 
 
