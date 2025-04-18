@@ -9,4 +9,4 @@ Here you will find the following,
 More details about the data generation process, data pre-processing and data modelling are all included in my thesis. 
 For each section, I will include instructions on how to run it and what files are required. Matlab is required for part 1. Parts 2 and 3 are Jupyter Notebooks, so you could use Google Colab for example to run them.
 
-Additionally, some code for analysing the metadata (i.e the values for the 8 parameters decided via PSO) are included in the 'Misc.' folder.
+Additionally, some code used for analysis, i.e analysis of the metadata (i.e the values for the 8 parameters decided via PSO) are included in the 'Misc.' folder.
